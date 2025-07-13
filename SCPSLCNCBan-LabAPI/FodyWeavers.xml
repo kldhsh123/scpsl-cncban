@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Weavers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="FodyWeavers.xsd">
+  <Costura>
+    <!-- 只包含 Newtonsoft.Json -->
+    <IncludeAssemblies>
+      Newtonsoft.Json
+    </IncludeAssemblies>
+    <!-- 创建临时程序集 -->
+    <CreateTemporaryAssemblies>true</CreateTemporaryAssemblies>
+    <!-- 启用压缩 -->
+    <DisableCompression>false</DisableCompression>
+    <!-- 清理临时文件 -->
+    <DisableCleanup>false</DisableCleanup>
+  </Costura>
+</Weavers>
