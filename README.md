@@ -80,12 +80,12 @@ enable_cloud_keywords: true           # 是否启用云端敏感词
 
 ---
 
-## � 相关项目
+##  相关项目
 
 - **CNBan 封禁列表**：[https://github.com/Manghui/CNBanList](https://github.com/Manghui/CNBanList)
   - 本插件默认集成此封禁系统
 
-## �📮 联系我们
+## 📮 联系我们
 
 - CNC 封禁系统官网：[https://cncban.scpslgame.cn](https://cncban.scpslgame.cn)
 - 封禁列表查看：[https://cncban.scpslgame.cn/bans](https://cncban.scpslgame.cn/bans)
