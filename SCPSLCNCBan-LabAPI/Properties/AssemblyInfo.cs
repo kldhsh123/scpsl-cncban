@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("SCPSLCNCBan-LabAPI")]
-[assembly: AssemblyDescription("基于LabAPI框架的SCPSL中国社区联盟封禁系统")]
+[assembly: AssemblyDescription("SCPSL中国社区联盟封禁系统")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("kldhsh123")]
 [assembly: AssemblyProduct("SCPSLCNCBan-LabAPI")]
